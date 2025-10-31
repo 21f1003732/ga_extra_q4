@@ -1,2 +1,2 @@
 # ga_extra_q4
-In my repo, creating a new folder .github/workflows/ and inside it a file like ci.yml.
+[![CI](https://github.com/21f1003732/ga_extra_q4/actions/workflows/ci.yml/badge.svg)](https://github.com/21f1003732/ga_extra_q4/actions/workflows/ci.yml)
